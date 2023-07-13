@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658754495593",
+    "project_id": "vidya-3b8d6",
+    "storage_bucket": "vidya-3b8d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658754495593:android:7b08c6356517d33738eef8",
+        "android_client_info": {
+          "package_name": "com.example.vidya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658754495593-18k9bh9k1o2as83fbniqb68fva9u3prh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vidya",
+            "certificate_hash": "136a34531e958a3c8226cafde84da6286b2dcaf2"
+          }
+        },
+        {
+          "client_id": "658754495593-dqte2is9te94oqv0ia2v3r97athndevn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1i2HlJOZwnSRQz4VQT8NoGgO8QCxd5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658754495593-dqte2is9te94oqv0ia2v3r97athndevn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
